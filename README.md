@@ -1,5 +1,5 @@
 # ESR
 
 ## Projeto desenvolvido por:<br>
-<li> João Castro - <a>https://github.com/joaocasr</a></li>
-<li> Rodrigo Freitas - <a>https://github.com/GWFM</a></li>
+<li> João Castro - <a href="https://github.com/joaocasr">github</a></li>
+<li> Rodrigo Freitas - <a href="https://github.com/GWFM">github</a></li>
