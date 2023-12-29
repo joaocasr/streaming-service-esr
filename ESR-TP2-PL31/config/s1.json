@@ -1,0 +1,10 @@
+{
+    "closest_neighbour":"10.0.6.1",
+    "role":"server",
+    "rp":{"ip":"10.0.4.1","port":4444},
+    "ip":"10.0.6.10",
+    "port":5555,
+    "name":"s1",
+    "conteudos":["movie.Mjpeg"],
+    "neighbors":["r4"]
+}

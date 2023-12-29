@@ -1,0 +1,9 @@
+{
+    "closest_neighbour":{"ip":"10.0.12.1","port":4491},
+    "role":"client",
+    "ip":"10.0.0.20",
+    "port":5012,
+    "name":"c3",
+    "stream_port": 7786,
+    "neighbors":["r2"]
+}

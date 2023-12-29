@@ -1,0 +1,18 @@
+{
+  "role": "rp",
+  "portServers": 4444,
+  "portClients": 4445,
+  "port": 4446,
+  "closest_neighbour": [],
+  "name": "r1",
+  "ip": "10.0.4.1",
+  "neighbors": [
+    "r2",
+    "r3",
+    "r4",
+    "c2",
+    "r5"
+  ],
+  "next_hop_ip": "10.0.12.1",
+  "next_hop_port": 7782
+}

@@ -1,0 +1,16 @@
+{
+  "role": "intermediario",
+  "closest_neighbour": [],
+  "name": "r3",
+  "portClients": 4493,
+  "port": 4492,
+  "ip": "10.0.1.2",
+  "stream_port": 7783,
+  "neighbors": [
+    "r1",
+    "r2",
+    "s2"
+  ],
+  "next_hop_ip": "10.0.12.1",
+  "next_hop_port": 7782
+}
